@@ -1,8 +1,8 @@
 {
-    "version": "10.2026-0",
-    "release": "A",
-    "type": "Feature",
+    "version": "11.2026-5",
+    "release": "P",
+    "type": "Servicing Update",
     "releaseDate": "2026-10-03",
     "downloadUrl": "...",
-    "message": "Dostępne jest pierwsze publiczne wydanie Convecta"
+    "message": "Dostępna jest testowa aktualizacja"
 }
