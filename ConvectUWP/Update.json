@@ -3,6 +3,6 @@
     "release": "Alpha",
     "type": "Updater Test (Ignore)",
     "releaseDate": "2026-10-03",
-    "downloadUrl": "https:\\www.example.com\",
+    "downloadUrl": "www.example.com",
     "message": "Updater test, you can safely ignore this message."
 }
