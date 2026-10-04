@@ -1,8 +1,8 @@
 {
-    "version": "11.2026-5P",
-    "release": "Public",
-    "type": "Servicing Update",
+    "version": "10.2026-0A",
+    "release": "Alpha",
+    "type": "Updater Test (Ignore)",
     "releaseDate": "2026-10-03",
     "downloadUrl": "...",
-    "message": "Dostępna jest testowa aktualizacja"
+    "message": "Updater test, you can safely ignore this message."
 }
